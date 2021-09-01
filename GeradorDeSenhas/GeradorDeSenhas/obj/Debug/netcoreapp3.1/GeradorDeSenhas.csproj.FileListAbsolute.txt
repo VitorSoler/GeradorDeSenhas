@@ -1,0 +1,13 @@
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\netcoreapp3.1\GeradorDeSenhas.exe
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\netcoreapp3.1\GeradorDeSenhas.deps.json
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\netcoreapp3.1\GeradorDeSenhas.runtimeconfig.json
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\netcoreapp3.1\GeradorDeSenhas.runtimeconfig.dev.json
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\netcoreapp3.1\GeradorDeSenhas.dll
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\netcoreapp3.1\GeradorDeSenhas.pdb
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\netcoreapp3.1\GeradorDeSenhas.csprojAssemblyReference.cache
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\netcoreapp3.1\GeradorDeSenhas.AssemblyInfoInputs.cache
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\netcoreapp3.1\GeradorDeSenhas.AssemblyInfo.cs
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\netcoreapp3.1\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\netcoreapp3.1\GeradorDeSenhas.dll
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\netcoreapp3.1\GeradorDeSenhas.pdb
+C:\C# completo\Projetos Particulares\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\netcoreapp3.1\GeradorDeSenhas.genruntimeconfig.cache
